@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+}
+p{
+  color:blue;
+  text-align: left;
+
+}
+footer{
+    background-color:blue;
+    padding:10px;
+    margin-top: 10px;
+}
+address{
+       background-color: white;
+}
+header img{
+    height:50px;
+    width: 30;  
+}
+header{
+    background-color:#5CCCCC;
+}
+img{
+    height: 360px;
+}
+h1{
+   color: blue;
+   text-align: center; 
+}
