@@ -1,0 +1,17 @@
+<html>
+<body>
+<header> <img src="https://cdn.pixabay.com/photo/2014/04/03/10/27/dolphin-310487_960_720.png"></header>
+<a href="">Главная</a>
+<h1>Дайвинг с дельфинами!</h1>
+<img src="https://cdn.pixabay.com/photo/2016/12/04/14/08/diver-1881751_960_720.jpg"
+/>
+<ul>
+    <li>Понедельник: 13:00-18:00</li>
+<li>Вторник: 14:30-19:00</li>
+<li>Среда: 15:00-17:00</li>
+<li>Четверг Пятница Субота Воскресенье: выходной</li>
+</ul>
+<p>Цены от 300 руб за человека</p>
+<footer><address>Телефон:</address></footer>
+</body>
+</html>
